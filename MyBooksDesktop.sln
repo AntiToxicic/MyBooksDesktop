@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyBooksDesktop.Application", "MyBooksDesktop.Application\MyBooksDesktop.Application.csproj", "{08CFB858-36BD-4BB2-BE79-5A60846A5E9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyBooksDesktop.Infrastructure", "MyBooksDesktop.Infrastructure\MyBooksDesktop.Infrastructure.csproj", "{6A24D198-BD56-4A23-B9BD-2854E614C547}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyBooksDesktop.Core", "MyBooksDesktop.Core\MyBooksDesktop.Core.csproj", "{203B110A-60EF-4868-BDEE-02DBF5162001}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08CFB858-36BD-4BB2-BE79-5A60846A5E9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08CFB858-36BD-4BB2-BE79-5A60846A5E9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08CFB858-36BD-4BB2-BE79-5A60846A5E9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08CFB858-36BD-4BB2-BE79-5A60846A5E9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A24D198-BD56-4A23-B9BD-2854E614C547}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A24D198-BD56-4A23-B9BD-2854E614C547}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A24D198-BD56-4A23-B9BD-2854E614C547}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A24D198-BD56-4A23-B9BD-2854E614C547}.Release|Any CPU.Build.0 = Release|Any CPU
+		{203B110A-60EF-4868-BDEE-02DBF5162001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{203B110A-60EF-4868-BDEE-02DBF5162001}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{203B110A-60EF-4868-BDEE-02DBF5162001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{203B110A-60EF-4868-BDEE-02DBF5162001}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
